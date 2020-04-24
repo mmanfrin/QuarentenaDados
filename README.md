@@ -17,5 +17,5 @@
  - https://www.youtube.com/watch?v=Nr_-aBFeDRM
  
  ## Aula5:
- - 
- -
+ - https://www.alura.com.br/quarentenadados/aula05-regressao-machine-learning
+ - https://www.youtube.com/watch?v=_YcxlJ-xm4M
