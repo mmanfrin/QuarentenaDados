@@ -1,22 +1,20 @@
 #Regulamento Desafio QuarentenaDados
 
-Grupo Caelum Alura
-
-*Como funcionará? *
+**Como funcionará? **
 
 A partir do desafio proposto na Aula 5, criar um modelo de Machine Learning para prever as notas da prova Linguagens e códigos, ENEM 2018, com base na nota das outras provas incluindo a redação.
 
 Será utilizado o Erro Quadrático Médio como métrica de avaliação. O modelo vencedor será o que tiver o menor erro.
 
-*Prêmio*
+**Prêmio**
 
 O aluno ou aluna que enviar o modelo vencedor ganhará 1 Nintendo Switch (Modelo Console Nintendo Switch 32GB ou de valor equivalente). O prêmio não poderá ser dividido ou revertido em dinheiro;
 
-*Quem pode participar?*
+**Quem pode participar?**
 
  A competição é exclusiva para participantes inscritos na #QuarentenaDados até o dia 23/04. Colaboradores do grupo Caelum Alura não poderão participar.
 
-*Prazo*
+**Prazo**
 
 -   A competição terá inicio do dia 24/04/2020 até o dia 01/05/2020, sexta-feira, até às 23h59 horário de Brasília.
 
